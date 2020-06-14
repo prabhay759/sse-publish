@@ -1,0 +1,27 @@
+{
+  "name": "sse-publish",
+  "version": "1.0.0",
+  "description": "A npm package to publish events/messages to client/Front End.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabhay759/sse-publish.git"
+  },
+  "keywords": [
+    "sse",
+    "server",
+    "sents",
+    "events",
+    "push",
+    "notifications"
+  ],
+  "author": "Prabhay Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prabhay759/sse-publish/issues"
+  },
+  "homepage": "https://github.com/prabhay759/sse-publish#readme"
+}
